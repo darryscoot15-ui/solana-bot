@@ -1,1 +1,1 @@
-# solana-bot
+# solana-b
